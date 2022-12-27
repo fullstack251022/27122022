@@ -1,0 +1,8 @@
+join next tables and select all its data:
+
+store, address
+
+film_category, film, category.
+
+store_id, film_id, inventory.
+
